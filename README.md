@@ -21,17 +21,29 @@
 🧰 Tech Stack
 
 Laravel
+
 PHP
+
 MySQL
+
 Blade Templates
+
 Repository Pattern
+
 Eloquent ORM
 
 🚀 Installation
+
 git clone https://github.com/devAbdallahAhmed/multi-vendor-store
+
 cd multi-vendor-store
+
 composer install
+
 cp .env.example .env
+
 php artisan key:generate
+
+
 php artisan migrate --seed
 php artisan serve
