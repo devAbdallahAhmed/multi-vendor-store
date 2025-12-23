@@ -3,7 +3,7 @@
 A full-featured multi vendor e-commerce platform built with Laravel, following clean architecture principles and MVC structure.
 The system allows multiple vendors to sell their products on the same platform, with separate vendor dashboards, admin control, and a complete customer shopping experience.
 
-🚀# This project was built completely from scratch using Laravel, including authentication, authorization, vendor management, and order workflows.
+🚀  This project was built completely from scratch using Laravel, including authentication, authorization.
 ---
 
 ## 📌 Project Overview
